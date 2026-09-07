@@ -1,6 +1,9 @@
 ---
 title: The 4D Framework
-order: 3
+order: 1.2
+aliases:
+  - path: ai-fluency-by-anthropic/the-4d-framework
+    moved: "2026-09-07T18:31:38Z"
 ---
 
 AI Fluency includes 4 core competences (4D): Delegation, Description, Discernment, Diligence.

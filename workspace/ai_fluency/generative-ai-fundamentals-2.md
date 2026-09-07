@@ -1,6 +1,9 @@
 ---
 title: Generative AI fundamentals
-order: 4
+order: 1.26
+aliases:
+  - path: ai-fluency-by-anthropic/generative-ai-fundamentals-2
+    moved: "2026-09-07T18:31:44Z"
 ---
 
 **Generative AI** - AI systems that can create new content.

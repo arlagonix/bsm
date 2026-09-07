@@ -1,6 +1,9 @@
 ---
 title: Capabilities & limitations of AI models
-order: 5
+order: 1.29
+aliases:
+  - path: ai-fluency-by-anthropic/capabilities-limitations-of-ai-models
+    moved: "2026-09-07T18:31:45Z"
 ---
 
 **The most effective systems will rely on the strengths of humans and AI**. Humans bring critical thinking, judgment, creativity, and ethical oversight that AI may struggle to replicate. AI others speed, scale, pattern recognition, and ability to process vast amounts of information.

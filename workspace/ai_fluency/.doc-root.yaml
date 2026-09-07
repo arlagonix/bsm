@@ -1,0 +1,10 @@
+title: AI Fluency
+description: You will learn how to work fluently with AI.
+optionalCategoryIndex: true
+supportedLanguages: []
+properties:
+  - id: b8VS1
+    name: description
+    type: Text
+logo: logo.png
+style: red

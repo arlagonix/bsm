@@ -1,0 +1,22 @@
+name: BA/SA Materials
+icon: database-zap
+webEditorUrl: null
+groups: null
+sections:
+  primary:
+    title: Основное
+    view: section
+    catalogs:
+      - posts
+  courses:
+    title: Курсы
+    view: section
+    catalogs:
+      - ai_fluency
+enterprise:
+  gesUrl: null
+  lastUpdateDate: null
+  refreshInterval: null
+enterpriseCloud:
+  url: null
+git: {}

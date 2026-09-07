@@ -1,11 +1,11 @@
 ---
 title: What is AI Fluency?
-order: 2
+order: 1.1
 aliases:
-  - path: what-is-ai-fluency
-    moved: "2026-09-04T08:57:02Z"
   - path: courses/what-is-ai-fluency
     moved: "2026-09-04T08:57:34Z"
+  - path: ai-fluency-by-anthropic/what-is-ai-fluency
+    moved: "2026-09-07T18:31:37Z"
 ---
 
 To get the maximum from the interactions with AI without wasting time and energy and in an honest and responsible way that protects the privacy and security of yourself and others

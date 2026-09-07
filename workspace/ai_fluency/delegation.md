@@ -1,6 +1,9 @@
 ---
 title: Delegation
-order: 6
+order: 1.296
+aliases:
+  - path: ai-fluency-by-anthropic/delegation
+    moved: "2026-09-07T18:31:46Z"
 ---
 
 ## **A closer look at delegation**
@@ -14,11 +17,6 @@ Delegation involves three key elements:
 -  **Platform awareness**: Know the strengths and limitations of AI systems
 
 -  **Task delegation**: Divide work between yourself and AI.
-
-```
-```
-
-[mermaid:./delegation.mermaid::500px:387px::624px]
 
 ## **Problem awareness**
 

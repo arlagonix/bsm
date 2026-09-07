@@ -2,11 +2,13 @@
   "scripts": {
     "build": "node build-all.mjs",
     "preview": "python -m http.server 8080 -d build",
-    "deploy": "npm run build:docs && gh-pages -d build --dotfiles --nojekyll"
+    "deploy": "npm run build && gh-pages -d build --dotfiles --nojekyll",
+    "gh_deploy": "gh-pages -d build --dotfiles --nojekyll"
   },
   "devDependencies": {
     "gh-pages": "^6.3.0",
     "gramax-cli": "^1.0.52",
+    "lucide-static": "^1.42.0",
     "yaml": "^2.9.0"
   },
   "overrides": {

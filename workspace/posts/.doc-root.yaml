@@ -6,6 +6,8 @@ properties:
   - id: RVOyB
     name: date
     type: Date
+    options:
+      docportalVisible: true
     icon: calendar-1
   - id: zrtDd
     name: telegram_url

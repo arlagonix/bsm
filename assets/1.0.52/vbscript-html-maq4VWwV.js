@@ -1,0 +1,1 @@
+var e=Object.defineProperty;var t=(n,a)=>e(n,"name",{value:a,configurable:!0});function s(n){return{name:"VBScript in HTML",subLanguage:"xml",contains:[{begin:"<%",end:"%>",subLanguage:"vbscript"}]}}t(s,"vbscriptHtml");export{s as default};

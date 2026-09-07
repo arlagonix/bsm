@@ -1,0 +1,1 @@
+var l=Object.defineProperty;var e=(t,a)=>l(t,"name",{value:a,configurable:!0});function i(t){return{name:"Plain text",aliases:["text","txt"],disableAutodetect:!0}}e(i,"plaintext");export{i as default};

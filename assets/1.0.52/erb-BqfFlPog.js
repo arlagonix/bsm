@@ -1,0 +1,1 @@
+var a=Object.defineProperty;var n=(e,u)=>a(e,"name",{value:u,configurable:!0});function t(e){return{name:"ERB",subLanguage:"xml",contains:[e.COMMENT("<%#","%>"),{begin:"<%[%=-]?",end:"[%-]?%>",subLanguage:"ruby",excludeBegin:!0,excludeEnd:!0}]}}n(t,"erb");export{t as default};

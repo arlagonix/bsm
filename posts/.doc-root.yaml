@@ -1,0 +1,17 @@
+title: Посты
+description: Авторские посты
+syntax: XML
+supportedLanguages: []
+properties:
+  - id: RVOyB
+    name: date
+    type: Date
+    icon: calendar-1
+  - id: zrtDd
+    name: telegram_url
+    type: Text
+    options:
+      docportalVisible: true
+    icon: link-2
+logo: icon:book-open-text:blue
+style: blue

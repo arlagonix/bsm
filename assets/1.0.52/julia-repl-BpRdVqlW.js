@@ -1,0 +1,1 @@
+var s=Object.defineProperty;var e=(a,l)=>s(a,"name",{value:l,configurable:!0});function n(a){return{name:"Julia REPL",contains:[{className:"meta.prompt",begin:/^julia>/,relevance:10,starts:{end:/^(?![ ]{6})/,subLanguage:"julia"}}],aliases:["jldoctest"]}}e(n,"juliaRepl");export{n as default};

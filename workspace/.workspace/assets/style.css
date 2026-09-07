@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700&display=swap');
+
+#custom-style {
+  --app-font-famaly: 'IBM Plex Sans', sans-serif;
+  font-weight: 400;
+}
+
+#custom-style p,
+#custom-style li,
+#custom-style td,
+#custom-style blockquote {
+  font-weight: 400;
+}
+
+#custom-style strong,
+#custom-style b {
+  font-weight: 600;
+}

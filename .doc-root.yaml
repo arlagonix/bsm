@@ -1,0 +1,8 @@
+title: ba_sa_materials
+syntax: XML
+supportedLanguages: []
+properties:
+  - id: lxKb5
+    name: description
+    type: Text
+    icon: book-open-text

@@ -1,0 +1,1 @@
+var s=Object.defineProperty;var n=(a,t)=>s(a,"name",{value:t,configurable:!0});function o(a){return{aliases:["pycon"],contains:[{className:"meta.prompt",starts:{end:/ |$/,starts:{end:"$",subLanguage:"python"}},variants:[{begin:/^>>>(?=[ ]|$)/},{begin:/^\.\.\.(?=[ ]|$)/}]}]}}n(o,"pythonRepl");export{o as default};

@@ -1,0 +1,1 @@
+var s=Object.defineProperty;var a=(e,n)=>s(e,"name",{value:n,configurable:!0});function r(e){return{name:"Clojure REPL",contains:[{className:"meta.prompt",begin:/^([\w.-]+|\s*#_)?=>/,starts:{end:/$/,subLanguage:"clojure"}}]}}a(r,"clojureRepl");export{r as default};

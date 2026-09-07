@@ -1,0 +1,1 @@
+import{E as o}from"./index-Dkb6wQiz.js";const c=[["circle",{cx:"12",cy:"12",r:"10",key:"1mglay"}],["path",{d:"m4.9 4.9 14.2 14.2",key:"1m5liu"}]],e=o("ban",c);const a=[["polygon",{points:"6 3 20 12 6 21 6 3",key:"1oa8hb"}]],t=o("play",a);export{e as B,t as P};

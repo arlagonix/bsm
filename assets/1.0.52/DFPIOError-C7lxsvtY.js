@@ -1,0 +1,1 @@
+var a=Object.defineProperty;var s=(o,r)=>a(o,"name",{value:r,configurable:!0});class n extends Error{static{s(this,"IoError")}code;constructor({name:r,code:e,message:t,cause:c}){super(t,{cause:c}),this.name=r,this.code=e}}export{n as I};

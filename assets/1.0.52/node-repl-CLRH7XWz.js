@@ -1,0 +1,1 @@
+var t=Object.defineProperty;var e=(a,n)=>t(a,"name",{value:n,configurable:!0});function r(a){return{name:"Node REPL",contains:[{className:"meta.prompt",starts:{end:/ |$/,starts:{end:"$",subLanguage:"javascript"}},variants:[{begin:/^>(?=[ ]|$)/},{begin:/^\.\.\.(?=[ ]|$)/}]}]}}e(r,"nodeRepl");export{r as default};
